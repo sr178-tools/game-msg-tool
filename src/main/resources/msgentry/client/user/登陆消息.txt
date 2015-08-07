@@ -1,0 +1,9 @@
+action:UAction_login:角色登录接口
+start
+string:token:用户登录令牌
+string:userId:用户编号
+string:partnerId:渠道编号
+string:serverId:服务器编号
+end
+start
+end

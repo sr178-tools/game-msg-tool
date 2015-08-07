@@ -1,0 +1,12 @@
+action:Role_push:角色登录接口
+start
+string:userId:用户编号
+int:ftId:游戏id
+string:roleName:角色名称
+int:level:用户等级
+long:exp:用户经验
+int:money:用户金币
+int:vipLevel:用户vip等级
+long:regTime:用户注册时间戳
+map<UserTask>:userTaskList:用户任务列表
+end

@@ -1,0 +1,6 @@
+action:RoleAction_logout:服务器间通讯用户登出
+start
+string:userId:用户id
+end
+start
+end

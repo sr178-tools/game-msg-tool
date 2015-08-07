@@ -1,0 +1,9 @@
+start
+classname:UserTask:用户任务信息
+string:userId:用户id
+int:systemTaskId:系统任务id，可根据该信息从静态数据中获取任务详情
+int:taskType:任务类型
+int:finishTimes:已完成次数
+int:status:状态 0可领取  1已领取  2已完成  3已获得奖励
+end
+

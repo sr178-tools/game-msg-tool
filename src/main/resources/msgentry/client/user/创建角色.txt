@@ -1,0 +1,11 @@
+action:RoleAction_creat:创建角色接口
+error:2001:用户不存在
+error:2002:用户已注册
+error:2003:用户名不合法
+start
+int:roleId:角色id
+string:roleName:角色名称
+UserTask:userTask:用户任务信息
+end
+start
+end
